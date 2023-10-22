@@ -16,7 +16,7 @@ In this notebook, Data Science Tools and Ecosystems are summarized.
 
 1. **NumPy**: NumPy is a fundamental package for scientific computing with Python. It contains among other things a powerful N-dimensional array object and useful linear algebra capabilities, making it essential for performing mathematical and logical operations on arrays.
 
-2. **Pandas**: Pandas is a powerful data analysis and manipulation library for Python. It provides data structures like DataFrame and Series, which are designed for efficiently analyzing large datasets. Pandas is particularly useful for cleaning, transforming, and analyzing data.
+2. **Pandas**: Pandas is a powerful data analysis and manipulation library for Python. It provides data structures like DataFrame and Series, which are designed for efficiently analyzing large datasets. Pandas are particularly useful for cleaning, transforming, and analyzing data.
 
 3. **Matplotlib**: Matplotlib is a comprehensive library for creating static, interactive, and animated visualizations in Python. It can be used to generate plots, histograms, power spectra, bar charts, error charts, scatterplots, etc., making it indispensable for data visualization tasks.
 
@@ -33,6 +33,10 @@ In this notebook, Data Science Tools and Ecosystems are summarized.
 
 
 ### Below are a few examples of evaluating arithmetic expressions in Python.
+
+# This is a simple arithmetic expression to multiply and then add integers.
+result = (3 * 4) + 5
+print(result)
 
 
 
