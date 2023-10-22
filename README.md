@@ -24,3 +24,10 @@ In this notebook, Data Science Tools and Ecosystems are summarized.
 
 5. **TensorFlow**: TensorFlow is an open-source machine learning library developed by the Google Brain team. It provides a comprehensive, flexible ecosystem of tools, libraries, and community resources that help researchers build and deploy machine learning-powered applications effectively.
 
+## Data Science Tools
+
+| Data Science Tools        |
+|---------------------------|
+| Jupyter Notebook          |
+| RStudio                   |
+| Apache Zeppelin           |
