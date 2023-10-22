@@ -34,7 +34,7 @@ In this notebook, Data Science Tools and Ecosystems are summarized.
 
 ### Below are a few examples of evaluating arithmetic expressions in Python.
 
-# This is a simple arithmetic expression to multiply and then add integers.
+#### This is a simple arithmetic expression to multiply and then add integers.
 result = (3 * 4) + 5
 print(result)
 
