@@ -30,3 +30,11 @@ In this notebook, Data Science Tools and Ecosystems are summarized.
 | Jupyter Notebook          |
 | RStudio                   |
 | Apache Zeppelin           |
+
+
+### Below are a few examples of evaluating arithmetic expressions in Python.
+
+
+
+
+
